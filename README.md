@@ -19,10 +19,10 @@ sudo chmod 777 /home/pi/OneForAll/install.sh<br>
 sudo /home/pi/OneForAll/./install.sh<br>
 <br><br><br>
 Now edit the keys.cfg to match your button wiring, I have included a GPIO Pinout jpeg that has the default wiring I used<br>
-![demo](/Raspberry-Pi-GPIO-Pinout.jpg)<br><br><br><br>
+![GPIO](/Raspberry-Pi-GPIO-Pinout.jpg)<br><br><br><br>
 
 Super big thanks to <b>Matthew English-Gallantry</b> aka <b>Bluup</b> from the awesome <b>Pocket Pi FE</b> project, he has worked really hard to get this working for everyone to use with the Retro PSU and their own projects.
 <br><br><br><br>
 Analog Stick Pinout to the Retro PSU board:<br>
-![demo1](/Analog Stick Pinout.jpg)<br>
-![demo2](/On Screen Display.jpg)<br>
+![AnalogPinout](/Analog%20Stick%20Pinout.jpg)<br>
+![demo2](/On%20Screen%20Display.jpg)<br>
