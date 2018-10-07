@@ -27,4 +27,5 @@ Super big thanks to <b>Matthew English-Gallantry</b> aka <b>Bluup</b> from the a
 ![BasicInstall](/RetroPSU%20Basic%20Install.jpg)<br><br><br>
 <b>Analog Stick Pinout to the Retro PSU board:</b><br>
 ![AnalogPinout](/Analog%20Stick%20Pinout.jpg)<br><br><br>
+<b>Software Installed:</b><br>
 ![demo2](/On%20Screen%20Display.jpg)<br>
