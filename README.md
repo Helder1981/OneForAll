@@ -1,7 +1,7 @@
 # OneForAll
-All in one software for the Retro PSU and other handheld projects. Has controls,analog stick, battery monitoring and control, OSD (overhead screen display).
+All in one software for the Retro PSU and other handheld projects.
 
-This OSD is designed to be fast and informative, it uses low level gpu system calls as well as signals and interrupts to keep the resources consuption low. The software is intendeed for mobile application as it features:
+This OSD (overhead screen display) is designed to be fast and informative, it uses low level gpu system calls as well as signals and interrupts to keep the resources consuption low. The software is intendeed for mobile application as it features:
 
     battery meter (w\ charge indicator)
     wifi meter w\ On/Off
