@@ -22,3 +22,7 @@ Now edit the keys.cfg to match your button wiring, I have included a GPIO Pinout
 ![demo](/Raspberry-Pi-GPIO-Pinout.jpg)<br><br><br><br>
 
 Super big thanks to <b>Matthew English-Gallantry</b> aka <b>Bluup</b> from the awesome <b>Pocket Pi FE</b> project, he has worked really hard to get this working for everyone to use with the Retro PSU and their own projects.
+<br><br><br><br>
+Analog Stick Pinout to the Retro PSU board:<br>
+![demo1](/Analog Stick Pinout.jpg)<br>
+![demo2](/On Screen Display.jpg)<br>
