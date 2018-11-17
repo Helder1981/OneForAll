@@ -50,6 +50,6 @@ One For All can be configured through keys.cfg through setting various flags:
 <b>Software Installed:</b><br>
 ![demo2](/On%20Screen%20Display.jpg)<br>
 
-
+### Credits
 Super big thanks to <b>Matthew English-Gallantry</b> aka <b>Bluup</b> from the awesome <b>Pocket Pi FE</b> project, he has worked really hard to get this working for everyone to use with the Retro PSU and their own projects.
 <br><br><br><br>
