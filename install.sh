@@ -5,7 +5,7 @@ cd ~
 sudo chmod 777 /home/pi/OneForAll/osd/osd
 sudo chmod 777 /home/pi/OneForAll/rfkill/rfkill
 sudo chmod 777 /home/pi/OneForAll/monitor
-sudo sed -i '/\"exit 0\"/!s/exit 0/\/home\/pi\/OneForAll\/monitor \&\nexit 0/g' /etc/rc.local
+sudo sed -i '/\"exit 0\"/!s/exit 0/\/home\/pi\/OneForAll\/monitor \< \/dev\/zero \&\> \/dev\/null \&\nexit 0/g' /etc/rc.local
 
 config_txt=/boot/config.txt
 echo "Enabling i2c..."
