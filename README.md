@@ -17,14 +17,14 @@ This OSD (on screen display) is designed to be fast and informative, it uses low
 Open up the terminal using SSH and run each command below:<br>
 
 ```sh
-$ git clone --recursive https://github.com/Helder1981/OneForAll.git<
+$ git clone --recursive https://github.com/Helder1981/OneForAll.git
 $ sudo chmod 755 /home/pi/OneForAll/install.sh
 $ sudo /home/pi/OneForAll/./install.sh
 ```
 
 Now edit the keys.cfg to match your button wiring, I have included a GPIO Pinout jpeg that has the default wiring I used<br>
 
-![GPIO](/Raspberry-Pi-GPIO-Pinout.jpg)<br><br><br><br>
+![GPIO](/Raspberry-Pi-GPIO-Pinout.jpg)
 
 ### Configuration:
 
