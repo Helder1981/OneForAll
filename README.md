@@ -29,6 +29,7 @@ Now edit the keys.cfg to match your button wiring, I have included a GPIO Pinout
 ### Configuration:
 
 One For All can be configured through keys.cfg through setting various flags:
+
 | Flag | Description |
 | ------ | ------ |
 | SHUTDOWN_DETECT | GPIO Pin that when driven low will cause the system to shutdown. Set to -1 if not required. |
